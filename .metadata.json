@@ -1,5 +1,13 @@
 [
   {
+    "package": "df2yaml",
+    "oncran": true
+  },
+  {
+    "package": "ggcoverage",
+    "oncran": true
+  },
+  {
     "package": "ggpie",
     "oncran": true
   }
