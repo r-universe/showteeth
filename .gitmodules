@@ -8,6 +8,3 @@
 [submodule "ggpie"]
 	path = ggpie
 	url = https://github.com/showteeth/ggpie
-[submodule "scfetch"]
-	path = scfetch
-	url = https://github.com/showteeth/scfetch
