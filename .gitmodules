@@ -5,6 +5,3 @@
 [submodule "df2yaml"]
 	path = df2yaml
 	url = https://github.com/showteeth/df2yaml
-[submodule "ggpie"]
-	path = ggpie
-	url = https://github.com/showteeth/ggpie
